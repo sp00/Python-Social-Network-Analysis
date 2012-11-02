@@ -3,8 +3,9 @@ Python-Social-Network-Analysis
 
 Social network analysis displayed with Django web framework
 
-==============================
+
 MySQL Database Tables
+==============================
 
 mysql> describe sna_messages;                                                                                                                                        
 +-----------+--------------+------+-----+---------+----------------+                                                                                                 
