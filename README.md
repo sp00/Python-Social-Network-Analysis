@@ -6,8 +6,8 @@ Social network analysis displayed with Django web framework
 
 MySQL Database Tables
 ==============================
-
-mysql> describe sna_messages;                                                                                                                                        
+<pre>
+mysql> describe sna_messages;        
 +-----------+--------------+------+-----+---------+----------------+                                                                                                 
 | Field     | Type         | Null | Key | Default | Extra          |                                                                                                 
 +-----------+--------------+------+-----+---------+----------------+                                                                                                 
@@ -41,4 +41,4 @@ mysql> describe sna_pairs;
 | sender | varchar(10) | NO   |     | NULL    |                |                                                                                                     
 | target | varchar(10) | NO   |     | NULL    |                |                                                                                                     
 +--------+-------------+------+-----+---------+----------------+ 
-
+</pre>
