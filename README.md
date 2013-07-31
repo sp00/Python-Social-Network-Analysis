@@ -5,8 +5,7 @@ Social network analysis displayed with Django web framework
 
 
 ##Setup
-`mkvirtualenv -p `which python3` sna`
-
+`mkvirtualenv -p ``which python3`` sna`
 `pip install -r requirements.txt`
 
 
